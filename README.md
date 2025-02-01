@@ -95,8 +95,9 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 </div>
 
 ---
-
+<!---
 <div align="center">
   <p>Made with ❤️ by Sapphire</p>
 </div>
+--!>
 
