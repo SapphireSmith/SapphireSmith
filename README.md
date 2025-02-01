@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
   <h2>Welcome to My GitHub World! 🌍</h2>
 </div>
@@ -93,6 +93,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
   <p>Stay tuned for more updates and projects!</p>
 </div>
+---!>
 
 ---
 <!---
